@@ -1,0 +1,20 @@
+body {
+    width: 700px;
+    height: 500px;
+    background-color: lightseagreen;
+    padding: 20px;
+}
+
+div {
+    width: 400px;
+    height: 100px;
+    background-color: maroon;
+    text-align: center;
+    color: mediumslateblue;
+    border: groove 5px black;
+    box-shadow: 0px 0px 20px black;
+}
+
+div :hover {
+    background-color: rgb(209, 136, 136);
+}
