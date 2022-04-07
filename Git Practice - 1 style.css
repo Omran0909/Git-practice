@@ -1,0 +1,20 @@
+body {
+    width: 960px;
+    height: 960px;
+    background-color: bisque;
+    padding: 10px;
+}
+
+main {
+    width: 600px;
+    height: 600px;
+    box-shadow: 0px 0px 20px grey;
+    padding: 20px;
+}
+
+.main-class {
+    margin: 10px;
+    background-color: honeydew;
+    text-align: center;
+}
+
